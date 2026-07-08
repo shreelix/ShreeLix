@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Mishra
 
-<!--
-**shreelix/ShreeLix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder of ShreeLix
 
-Here are some ideas to get you started:
+We build modern software solutions that help businesses digitize and automate their operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Our Services
+
+- Custom Software Development
+- Web Applications
+- Mobile Applications
+- AI Solutions
+- Business Automation
+- ERP & CRM Systems
+- Dashboard Development
+- API Integration
+- Cloud Solutions
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### Frontend
+- React
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+- FastAPI
+- Node.js
+- Express
+
+### Database
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Cloud & DevOps
+- GitHub
+- Docker
+- Nginx
+- Linux
+
+---
+
+## 🌟 Current Focus
+
+- Building ShreeLix 🚀
+- AI Automation
+- ERP Solutions
+- Healthcare Software
+- Manufacturing Software
+
+---
+
+## 📫 Contact
+
+📧 support.shreelix@gmail.com
+
+🌐 Website
+Coming Soon
+
+---
+
+⭐ Building technology that empowers businesses.
