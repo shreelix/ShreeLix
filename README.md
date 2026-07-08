@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivam Mishra
+# 👋 Hi, I'm Rupa Barua
 
 ## Founder of ShreeLix
 
